@@ -41,11 +41,10 @@ The Overleaf project is titled "A General Introduction to Game Theory: An Interd
 ### More about the Author
 - headshot
 - ![Yiwei](Yiwei.jpg)
-- self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+- self-introduction<br>
+Yiwei Liang is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU. Yiwei is interested in Ai-painting and voice clone project, has few experience of applying vits and so-vits projects.
+- Final reflections <br>
+After completing this project, I have experienced significant intellectual and professional growth in the field of game theory. I have gained a deeper understanding of the fundamental concepts in game theory, such as Nash Equilibrium, Bayesian Nash Equilibrium, normal form matrix games, and extensive form games. The simulations in the Colab project allowed me to apply these concepts in a practical setting, and I have learned how to analyze and interpret the results of these simulations. The Overleaf project has also strengthened my Latex skills, allowing me to communicate my ideas and findings more effectively.
 
 ### References
 
