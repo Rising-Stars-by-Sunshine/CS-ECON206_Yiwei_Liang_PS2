@@ -1,40 +1,24 @@
-# Yiwei's Problem Set 2
+# Yiwei's Problem Set 2: Decipher Game Theory
 ## Project information
 - **Author**: Yiwei Liang, Computation and Design with tracks in Computer Science, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
-- **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
-  
-   
-Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
 
 ## Table of Contents
-
-- model
+- introduction
 - code
 - spotlight
 - more about the author
 - references
-
-### Model
-- Game Environment
-- Solution Concept
-- Evaluations: e.g. efficiency and fairness
-
+### Introduction
+This project is a review of fundamental concepts in game theory and includes simulations of typical games and an elaboration on the Nash Equilibrium. The project is divided into two parts, Overleaf and Google Colab.<br>
+This project have two parts, the first part is the overleaf project, and the second part is colab part. Aiming to review basic concepts in game theory, the two parts helped us review the definitions and the simulation taught us the basic analysis ability of result of simulations.
 ### Code
-- Game Environment
-- Strategic plays
-- Equilibruim Evaluations: e.g. belief, strategy, and payoffs
-- oTree Experimental Code 
-
+#### Overleaf project:
+[Overleaf](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yiwei_Liang_PS2/blob/62e5a230e61bc75f3cbb773537f4daa02539daa4/code/CSECON206_ProblemSet2_Spring2023-Yiwei.zip)
+For the overleaf project, it use Latex to compile definitions, theorems, lemmas and include 
 
 ### Spotlight
 - Posters
