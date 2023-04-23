@@ -23,12 +23,20 @@ For the overleaf project, it concluds reflections on Game Theory,  Bayesian Nash
 [Colab](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yiwei_Liang_PS2/blob/8e404371a3078e7e7f81886e25504b1c00f55f37/code/PS2.ipynb)<br>
 For the colab project, it concludes two games, first one is normal form matrix game, and the second one is extensive form game. This two game simulation taught me basic ability of how to analysis and implement the tools for game theory.
 ### Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+#### Overleaf project 
+The Overleaf project is titled "A General Introduction to Game Theory: An Interdisciplinary Approach." The project is divided into four parts.
+
+- Part I is the self-introduction of the author, which is not specified in the provided structure.
+
+- Part II of the project provides a brief history of the development of game theory.
+
+- Part III of the project is focused on Bayesian Nash Equilibrium. It provides a definition of Bayesian Nash Equilibrium, along with a theorem and proof.
+
+- Part IV of the project consists of Game Theory Glossary Tables. It provides a list of terms used in game theory, along with their definitions.
+#### Colab project
+- The Stag Hunt Game is a normal form matrix game in which two players have to choose between hunting a hare or a stag. Hunting a hare always yields a payoff of h>0, while hunting a stag yields a higher payoff of s>h, but requires a coordinated effort from both players. The game has three Nash equilibria, one of which is a pure strategy equilibrium where both players hunt the stag, and two mixed strategy equilibria where each player randomizes between hunting the stag and hunting the hare.
+
+- The Ultimatum Game is an extensive form game played by two players: the proposer and the responder. In this game, the proposer suggests how to split a sum of money between themselves and the responder. If the responder agrees, the money is split as suggested, but if they decline, neither player gets any money. The game has four extreme equilibria, two of which are pure strategy equilibria, and two of which are mixed strategy equilibria. In the pure strategy equilibria, player 1 chooses strategy 1, and player 2 chooses either strategy 1 or strategy 2, resulting in both players receiving an expected payoff of 3. In the mixed strategy equilibria, both players use mixed strategies, resulting in different expected payoffs for both players.
 
 ### More about the Author
 - headshot
