@@ -1,4 +1,4 @@
-# # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Yiwei's Problem Set 2
 ## Project information
 - **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
