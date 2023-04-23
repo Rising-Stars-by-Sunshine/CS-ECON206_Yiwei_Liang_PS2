@@ -40,7 +40,7 @@ The Overleaf project is titled "A General Introduction to Game Theory: An Interd
 
 ### More about the Author
 - headshot
-- ![Yiwei](Yiwei.jpg)
+- ![Yiwei](Yiwei.jpg){width: 200px;}
 - self-introduction
 - Final reflections 
   - intellectual growth
