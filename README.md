@@ -17,7 +17,7 @@ This project is a review of fundamental concepts in game theory and includes sim
 This project have two parts, the first part is the overleaf project, and the second part is colab part. Aiming to review basic concepts in game theory, the two parts helped us review the definitions and the simulation taught us the basic analysis ability of result of simulations.
 ### Code
 #### Overleaf project:
-[Overleaf](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yiwei_Liang_PS2/blob/62e5a230e61bc75f3cbb773537f4daa02539daa4/code/CSECON206_ProblemSet2_Spring2023-Yiwei.zip)<br>
+[Overleaf](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yiwei_Liang_PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023-Yiwei_updated.zip)<br>
 For the overleaf project, it concluds reflections on Game Theory,  Bayesian Nash Equilibrium: Definition, Theorem, and Proof, and Game Theory Glossar Table. In this project, my Latex skills is strengthened and improved.
 #### Colab project:
 [Colab](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yiwei_Liang_PS2/blob/8e404371a3078e7e7f81886e25504b1c00f55f37/code/PS2.ipynb)<br>
