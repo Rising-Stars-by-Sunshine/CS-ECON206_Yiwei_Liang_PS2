@@ -14,7 +14,7 @@
 - references
 ### Introduction
 This project is a review of fundamental concepts in game theory and includes simulations of typical games and an elaboration on the Nash Equilibrium. The project is divided into two parts, Overleaf and Google Colab.<br>
-This project have two parts, the first part is the overleaf project, and the second part is colab part. Aiming to review basic concepts in game theory, the two parts helped us review the definitions and the simulation taught us the basic analysis ability of result of simulations.
+This project has two parts, the first part is the overleaf project, and the second part is colab part. Aiming to review basic concepts in game theory, the two parts helped us review the definitions and the simulation taught us the basic analysis ability of results of simulations.
 ### Code
 #### Overleaf project:
 [Overleaf](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yiwei_Liang_PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023-Yiwei_updated.zip)<br>
