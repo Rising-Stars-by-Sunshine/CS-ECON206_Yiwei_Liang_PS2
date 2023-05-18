@@ -18,6 +18,7 @@ This project have two parts, the first part is the overleaf project, and the sec
 ### Code
 #### Overleaf project:
 [Overleaf](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yiwei_Liang_PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023-Yiwei_updated.zip)<br>
+[Overleaf-pdf](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yiwei_Liang_PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023_Yiwei_updated.pdf)<br>
 For the overleaf project, it concluds reflections on Game Theory,  Bayesian Nash Equilibrium: Definition, Theorem, and Proof, and Game Theory Glossar Table. In this project, my Latex skills is strengthened and improved.
 #### Colab project:
 [Colab](https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Yiwei_Liang_PS2/blob/8e404371a3078e7e7f81886e25504b1c00f55f37/code/PS2.ipynb)<br>
